@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Inter", sans-serif;
+  min-height: 100vh;
+  background: #170f23;
+  overflow: hidden;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.image-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+  height: 100%;
+}
+
+audio {
+  appearance: none;
+  background: #fff;
+}
+
+.karaoke {
+  padding: 20px 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  overflow-y: scroll;
+  gap: 50px;
+  height: 100vh;
+}
+
+.karaoke::-webkit-scrollbar {
+  width: 0;
+}
+
+.karaoke h2 {
+  font-size: 50px;
+  color: #fff;
+  font-weight: 800;
+}
+
+.karaoke span {
+  font-size: 42px;
+  font-weight: 800;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+span.active {
+  color: yellow;
+}
+
+span.hide {
+  opacity: 0;
+  visibility: hidden;
+}
