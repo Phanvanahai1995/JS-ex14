@@ -30,10 +30,6 @@ audio.addEventListener("timeupdate", function () {
           spanEls[i - 1].style.display = "none";
         }, 500);
       }
-
-      // setTimeout(function () {
-      //   spanEls[i].style.display = "none";
-      // }, lyric.words[lyric.words.length - 1].endTime / 9);
     } else {
       spanEls[i].className = "";
     }
