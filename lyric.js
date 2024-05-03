@@ -22,7 +22,7 @@ var lyrics = `{
             },
             {
               "startTime": 11919,
-              "endTime": 12529,
+              "endTime": 12309,
               "data": "shadow"
             }
           ]
@@ -41,7 +41,7 @@ var lyrics = `{
             },
             {
               "startTime": 13380,
-              "endTime": 13710,
+              "endTime": 14020,
               "data": "light"
             }
           ]
@@ -50,7 +50,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 14020,
-              "endTime": 18230,
+              "endTime": 18340,
               "data": "Did you feel us"
             }
           ]
@@ -64,7 +64,7 @@ var lyrics = `{
             },
             {
               "startTime": 18530,
-              "endTime": 19220,
+              "endTime": 19819,
               "data": "start"
             }
           ]
@@ -83,7 +83,7 @@ var lyrics = `{
             },
             {
               "startTime": 20829,
-              "endTime": 21449,
+              "endTime": 21990,
               "data": "away"
             }
           ]
@@ -122,7 +122,7 @@ var lyrics = `{
             },
             {
               "startTime": 23919,
-              "endTime": 24209,
+              "endTime": 24789,
               "data": "sight"
             }
           ]
@@ -141,7 +141,7 @@ var lyrics = `{
             },
             {
               "startTime": 26639,
-              "endTime": 28369,
+              "endTime": 28670,
               "data": "us"
             }
           ]
@@ -150,7 +150,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 28670,
-              "endTime": 30070,
+              "endTime": 31129,
               "data": "Alight"
             }
           ]
@@ -174,7 +174,7 @@ var lyrics = `{
             },
             {
               "startTime": 33149,
-              "endTime": 33319,
+              "endTime": 36439,
               "data": "now"
             }
           ]
@@ -198,7 +198,7 @@ var lyrics = `{
             },
             {
               "startTime": 38509,
-              "endTime": 38529,
+              "endTime": 41709,
               "data": "now"
             }
           ]
@@ -222,7 +222,7 @@ var lyrics = `{
             },
             {
               "startTime": 42719,
-              "endTime": 42739,
+              "endTime": 44630,
               "data": "now"
             }
           ]
@@ -249,7 +249,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 49930,
-              "endTime": 52690,
+              "endTime": 55040,
               "data": "Were you only imaginary"
             }
           ]
@@ -273,7 +273,7 @@ var lyrics = `{
             },
             {
               "startTime": 57089,
-              "endTime": 57109,
+              "endTime": 57270,
               "data": "now"
             }
           ]
@@ -291,7 +291,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 58960,
-              "endTime": 61770,
+              "endTime": 61859,
               "data": "Under the sea "
             }
           ]
@@ -304,13 +304,13 @@ var lyrics = `{
               "data": "Under"
             },
             {
-              "startTime": 62289,
+              "startTime": 62200,
               "endTime": 62729,
               "data": "the"
             },
             {
               "startTime": 62729,
-              "endTime": 62749,
+              "endTime": 63819,
               "data": "sea"
             }
           ]
@@ -334,7 +334,7 @@ var lyrics = `{
             },
             {
               "startTime": 66079,
-              "endTime": 66099,
+              "endTime": 67150,
               "data": "now"
             }
           ]
@@ -370,7 +370,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 74580,
-              "endTime": 76600,
+              "endTime": 80180,
               "data": "I'm faded"
             }
           ]
@@ -379,7 +379,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 80180,
-              "endTime": 82180,
+              "endTime": 83609,
               "data": "I'm faded"
             }
           ]
@@ -398,12 +398,12 @@ var lyrics = `{
             },
             {
               "startTime": 85870,
-              "endTime": 86729,
+              "endTime": 87809,
               "data": "I'm"
             },
             {
               "startTime": 87809,
-              "endTime": 87860,
+              "endTime": 90850,
               "data": "faded"
             }
           ]
@@ -420,13 +420,13 @@ var lyrics = `{
         {
           "words": [
             {
-              "startTime": 94269,
+              "startTime": 94610,
               "endTime": 95139,
               "data": "So"
             },
             {
               "startTime": 95139,
-              "endTime": 95529,
+              "endTime": 95659,
               "data": "lost,"
             },
             {
@@ -436,7 +436,7 @@ var lyrics = `{
             },
             {
               "startTime": 97629,
-              "endTime": 97679,
+              "endTime": 97870,
               "data": "faded"
             }
           ]
@@ -445,7 +445,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 97870,
-              "endTime": 99390,
+              "endTime": 99379,
               "data": "These shallow waters "
             }
           ]
@@ -459,7 +459,7 @@ var lyrics = `{
             },
             {
               "startTime": 100010,
-              "endTime": 100039,
+              "endTime": 100779,
               "data": "met"
             }
           ]
@@ -468,17 +468,17 @@ var lyrics = `{
           "words": [
             {
               "startTime": 100779,
-              "endTime": 101179,
+              "endTime": 101189,
               "data": "What"
             },
             {
               "startTime": 101189,
-              "endTime": 101380,
+              "endTime": 101390,
               "data": "I"
             },
             {
               "startTime": 101390,
-              "endTime": 101709,
+              "endTime": 104640,
               "data": "needed"
             }
           ]
@@ -495,13 +495,13 @@ var lyrics = `{
         {
           "words": [
             {
-              "startTime": 108489,
-              "endTime": 109099,
+              "startTime": 108570,
+              "endTime": 109290,
               "data": "Eternal"
             },
             {
               "startTime": 109290,
-              "endTime": 109570,
+              "endTime": 109969,
               "data": "silence"
             },
             {
@@ -511,12 +511,12 @@ var lyrics = `{
             },
             {
               "startTime": 110459,
-              "endTime": 110539,
+              "endTime": 110549,
               "data": "the"
             },
             {
               "startTime": 110549,
-              "endTime": 111059,
+              "endTime": 112310,
               "data": "sea"
             }
           ]
@@ -530,7 +530,7 @@ var lyrics = `{
             },
             {
               "startTime": 112669,
-              "endTime": 112729,
+              "endTime": 115270,
               "data": "breathing"
             }
           ]
@@ -539,7 +539,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 115270,
-              "endTime": 117140,
+              "endTime": 118010,
               "data": "Alive"
             }
           ]
@@ -553,17 +553,17 @@ var lyrics = `{
             },
             {
               "startTime": 118389,
-              "endTime": 118399,
+              "endTime": 118409,
               "data": "are"
             },
             {
               "startTime": 118409,
-              "endTime": 118719,
+              "endTime": 118729,
               "data": "you"
             },
             {
               "startTime": 118729,
-              "endTime": 119689,
+              "endTime": 122919,
               "data": "now"
             }
           ]
@@ -582,12 +582,12 @@ var lyrics = `{
             },
             {
               "startTime": 123269,
-              "endTime": 123749,
+              "endTime": 123759,
               "data": "you"
             },
             {
               "startTime": 123759,
-              "endTime": 124169,
+              "endTime": 128610,
               "data": "now"
             }
           ]
@@ -605,7 +605,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 129980,
-              "endTime": 131360,
+              "endTime": 130949,
               "data": "But faded lights"
             }
           ]
@@ -614,7 +614,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 130949,
-              "endTime": 131159,
+              "endTime": 131229,
               "data": "You"
             },
             {
@@ -624,7 +624,7 @@ var lyrics = `{
             },
             {
               "startTime": 131799,
-              "endTime": 131819,
+              "endTime": 131829,
               "data": "my"
             },
             {
@@ -634,12 +634,12 @@ var lyrics = `{
             },
             {
               "startTime": 132339,
-              "endTime": 132409,
+              "endTime": 132689,
               "data": "on"
             },
             {
               "startTime": 132689,
-              "endTime": 133209,
+              "endTime": 133569,
               "data": "fire"
             }
           ]
@@ -648,22 +648,22 @@ var lyrics = `{
           "words": [
             {
               "startTime": 133569,
-              "endTime": 134029,
+              "endTime": 135410,
               "data": "Where"
             },
             {
               "startTime": 135410,
-              "endTime": 135420,
+              "endTime": 135429,
               "data": "are"
             },
             {
               "startTime": 135429,
-              "endTime": 135449,
+              "endTime": 135459,
               "data": "you"
             },
             {
               "startTime": 135459,
-              "endTime": 135479,
+              "endTime": 136529,
               "data": "now"
             }
           ]
@@ -672,22 +672,22 @@ var lyrics = `{
           "words": [
             {
               "startTime": 136529,
-              "endTime": 136659,
+              "endTime": 136669,
               "data": "Where"
             },
             {
               "startTime": 136669,
-              "endTime": 137019,
+              "endTime": 137539,
               "data": "are"
             },
             {
               "startTime": 137539,
-              "endTime": 137669,
+              "endTime": 137679,
               "data": "you"
             },
             {
               "startTime": 137679,
-              "endTime": 138709,
+              "endTime": 151480,
               "data": "now"
             }
           ]
@@ -713,8 +713,8 @@ var lyrics = `{
         {
           "words": [
             {
-              "startTime": 156059,
-              "endTime": 156489,
+              "startTime": 156430,
+              "endTime": 156979,
               "data": "Under"
             },
             {
@@ -724,7 +724,7 @@ var lyrics = `{
             },
             {
               "startTime": 157389,
-              "endTime": 157429,
+              "endTime": 159109,
               "data": "sea"
             }
           ]
@@ -733,7 +733,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 159109,
-              "endTime": 159729,
+              "endTime": 160239,
               "data": "Under"
             },
             {
@@ -743,7 +743,7 @@ var lyrics = `{
             },
             {
               "startTime": 161120,
-              "endTime": 161139,
+              "endTime": 16174,
               "data": "sea"
             }
           ]
@@ -770,7 +770,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 167930,
-              "endTime": 169860,
+              "endTime": 170159,
               "data": "The monsters running wild "
             }
           ]
@@ -779,7 +779,7 @@ var lyrics = `{
           "words": [
             {
               "startTime": 170159,
-              "endTime": 170399,
+              "endTime": 170409,
               "data": "Inside"
             },
             {
@@ -789,7 +789,7 @@ var lyrics = `{
             },
             {
               "startTime": 170679,
-              "endTime": 170759,
+              "endTime": 171740,
               "data": "me"
             }
           ]
@@ -815,23 +815,23 @@ var lyrics = `{
         {
           "words": [
             {
-              "startTime": 180959,
-              "endTime": 181959,
+              "startTime": 181000,
+              "endTime": 183419,
               "data": "So"
             },
             {
               "startTime": 183419,
-              "endTime": 184019,
+              "endTime": 185989,
               "data": "lost,"
             },
             {
               "startTime": 185989,
-              "endTime": 186019,
+              "endTime": 186030,
               "data": "I'm"
             },
             {
               "startTime": 186030,
-              "endTime": 186080,
+              "endTime": 187750,
               "data": "faded"
             }
           ]
@@ -848,8 +848,8 @@ var lyrics = `{
         {
           "words": [
             {
-              "startTime": 191639,
-              "endTime": 192039,
+              "startTime": 191680,
+              "endTime": 192069,
               "data": "So"
             },
             {
