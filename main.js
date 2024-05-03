@@ -25,10 +25,17 @@ audio.addEventListener("timeupdate", function () {
       spanEls[i].className = "active";
 
       if (i >= 1) {
-        spanEls[i - 1].classList.add("hide");
-        setTimeout(function () {
-          spanEls[i - 1].style.display = "none";
-        }, 500);
+        for (let j = 0; j < i; j++) {
+          spanEls[j].classList.add("hide");
+          setTimeout(function () {
+            spanEls[j].style.display = "none";
+          }, 500);
+        }
+
+        // spanEls[i - 1].classList.add("hide");
+        // setTimeout(function () {
+        //   spanEls[i - 1].style.display = "none";
+        // }, 500);
       }
     } else {
       spanEls[i].className = "";
