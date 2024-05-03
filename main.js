@@ -26,7 +26,7 @@ audio.addEventListener("timeupdate", function () {
 
       setTimeout(function () {
         spanEls[i].style.display = "none";
-      }, lyric.words[lyric.words.length - 1].endTime / 10);
+      }, lyric.words[lyric.words.length - 1].endTime / 9);
     } else {
       spanEls[i].className = "";
     }
